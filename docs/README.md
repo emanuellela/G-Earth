@@ -1,6 +1,8 @@
 # G-Earth
 Feature-rich habbo packet logger & manipulator for Windows, Linux and Mac.
 
+» [Latest](https://github.com/sirjonasxx/G-Earth/releases/tag/1.5.3) 
+
 - Requires Java 8
 
 [CLICK HERE FOR TROUBLESHOOTING](https://github.com/sirjonasxx/G-Earth/wiki/Troubleshooting)
